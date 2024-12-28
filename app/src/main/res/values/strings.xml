@@ -1,6 +1,26 @@
 <resources>
-    <string name="app_name">Berita Terbaru Sekarang</string>
-    <string name="coba1"><a href="https://riaupos.jawapos.com/hiburan/2253597499/inilah-profil-7-anggota-babymonster-yang-akan-debut-27-november-mendatang">Inilah Profil 7 Anggota BABYMONSTER yang akan Debut...</a></string>
-    <string name="coba2"><a href="https://music.indozone.id/k-pop/974166874/enhypen-bakal-rilis-remake-lagu-bts-i-need-u-versi-akustik">ENHYPEN Bakal Rilis Remake Lagu BTS "I NEED U" Versi Akustik -</a></string>
-    <string name="coba3"><a href="https://www.insertlive.com/film-dan-musik/20241018193643-197-349278/makna-dan-lirik-terjemahan-apt-lagu-baru-rose-blackpink-dan-bruno-mars"></a>Makna dan Lirik Terjemahan APT, Lagu Baru Rose BLACKPINK dan Bruno Mars</string>
+    <string name="app_name">Menampilkan Berita Terkini Seputaran K-pop</string>
+
+    <!-- Berita Terkini -->
+    <string name="berita_1">Profil 7 Anggota BABYMONSTER, Girl Grup Baru Naungan YG Entertainment</string>
+    <string name="berita_1_url">https://www.jawapos.com/music-movie/013268954/profil-7-anggota-babymonster-girl-grup-baru-naungan-yg-entertainment-yang-akan-debut-27-november-mendatang</string>
+
+    <string name="berita_2">Informasi tentang ENHYPEN</string>
+    <string name="berita_2_url">https://kpop.fandom.com/id/wiki/ENHYPEN</string>
+
+    <string name="berita_3">Arti Permainan Apateu Inspirasi Lagu APT dari Rose BLACKPINK dan Bruno Mars</string>
+    <string name="berita_3_url">https://www.cantika.com/read/1930878/arti-permainan-apateu-inspirasi-lagu-apt-rose-blackpink-dan-bruno-mars</string>
+
+    <!-- Arsip Berita -->
+    <string name="arsip_1">ENHYPEN</string>
+    <string name="arsip_1_url">https://kpop.fandom.com/id/wiki/ENHYPEN</string>
+
+    <string name="arsip_2">Berita Tampil di WowKeren</string>
+    <string name="arsip_2_url">https://www.wowkeren.com/berita/tampil/00499873.html</string>
+
+    <string name="arsip_3">Lirik Lagu Last Night dari TREASURE</string>
+    <string name="arsip_3_url">https://www.sonora.id/read/424190347/lirik-lagu-last-night-treasure-lengkap-dengan-terjemehannya</string>
+
+    <string name="arsip_4">TREASURE Kembali Menggebrak dengan MV "King Kong"</string>
+    <string name="arsip_4_url">https://www.rri.co.id/hiburan/721421/treasure-kembali-menggebrak-dengan-mv-king-kong</string>
 </resources>

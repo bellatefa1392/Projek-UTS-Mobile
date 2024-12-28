@@ -61,6 +61,8 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation("androidx.compose.material3:material3:<latest_version>")
     implementation("androidx.compose.ui:ui:<latest_version>")
+    implementation(libs.androidx.navigation.runtime.ktx)
+    implementation(libs.androidx.navigation.compose)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
